@@ -1,1 +1,1 @@
-# sbm-bank-web-application-springboot
+unzip demo file and run directly from your visual code 
